@@ -12,7 +12,7 @@ This repository hosts the `Hidden_fetching` script and related documentation.
 
 ---
 
-## Overview
+## Overview 
 
 This bookmarklet helps you quickly locate embedded resource paths (APIs, assets, endpoints) without manually sifting through source files. It:
 
